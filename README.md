@@ -247,9 +247,4 @@ Editorial images are loaded from Unsplash. Individual article captions display t
 - The content is fictional and intended for demonstration.
 
 These constraints are deliberate: the brief calls for a frontend-only experience without a backend.
-#   D a i l y b u g l e  
- #   D a i l y b u g l e  
- #   D a i l y b u g l e  
- #   D a i l y b u g l e  
- #   D a i l y b u g l e  
- 
+#
