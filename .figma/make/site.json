@@ -1,0 +1,11 @@
+{
+  "title": "The Daily Bugle — Queens Edition",
+  "description": "Your friendly neighborhood news source for Queens and all things Spider-Man. Search stories, read full reports, and save articles for later.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
